@@ -125,7 +125,7 @@ nav.navbar {
   /* Safari 6.0 - 9.0 */
   filter: grayscale(0%); }
 
-@media screen and (min-width: 400px) }
+@media screen and (min-width: 400px) {
 br.rwd-break {
     display: none !important;}
 }
