@@ -126,7 +126,7 @@ nav.navbar {
   filter: grayscale(0%); }
 
 @media screen and (min-width: 400px)
-.rwd-break {
+h1 br.rwd-break {
     display: none;
 }
 
