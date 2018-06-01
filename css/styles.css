@@ -125,6 +125,11 @@ nav.navbar {
   /* Safari 6.0 - 9.0 */
   filter: grayscale(0%); }
 
+@media screen and (min-width: 400px)
+.rwd-break {
+    display: none;
+}
+
 /*!
  * Bootstrap v4.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
