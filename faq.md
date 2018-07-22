@@ -7,7 +7,7 @@ layout: default
 <div class="container-fluid ml-0 mr-0 pl-0 pr-0 pb-0" id="top-container-gallery">
     <div class="row">
                 <div class="card col-12" id="gallery-frame">
-                    <img class="card-img-top" src="/assets/faq_header.png" alt="Card image cap">
+                    <img class="card-img-top" src="/assets/FAQ_header.png" alt="Card image cap">
                 </div>
     </div>
 </div>
