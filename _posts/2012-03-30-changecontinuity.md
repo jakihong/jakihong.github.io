@@ -1,7 +1,7 @@
 ---
 layout: project
-imgmain: "033012_change_continuity.png"
-imgdetail: "033012_change_continuity_D1.png"
+imgmain: "033012_Change_continuity.png"
+imgdetail: "033012_Change_continuity_D1.png"
 title: "Big Trubble"
 completed: "3/30/12"
 tools: "Microsoft Powerpoint, Adobe InDesign"
