@@ -1,1 +1,0 @@
-/ * Creating an Assets folder */
