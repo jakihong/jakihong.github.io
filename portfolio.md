@@ -10,7 +10,7 @@ layout: default
                     <div id="gallery-heading-container">
                         <h1>Illustration</h1>
                         <p class="lead">Projects ocusing on character design, costume design, and illustrative compositions.</p>
-                        <P>Previous works include fanart for <I>Dragon Age: Inquisition</I>, <I>Overwatch</I>, and a number of promotional illustrations of characters from my webcomic, KISMET.  Projects were completed using Clip Studio Paint and Adobe Photoshop.</p>
+                        <P>Previous works include fanart, and a number of promotional illustrations of characters from my webcomic, KISMET.  Projects were completed using Clip Studio Paint and Adobe Photoshop.</p>
                     </div>
                 </div>
                 <div class="card col-lg-3 col-6" id="gallery-frame">
