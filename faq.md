@@ -64,4 +64,5 @@ All prices are <I>per character</I>. Fully rendered commissions have a simple ba
 <P>I have a few tutorials up on by <a href="http://itsmyfreakin.tumblr.com/tagged/tutorial">tumblr</a> and <a href="http://www.youtube.com/c/JakiHong">youtube</a>.  If you have any questions about my process, feel free to drop me a line!</P>
 <hr class="mt-5"></div>
 </div>
+</div>
 {% include contactform.html %}
