@@ -12,7 +12,7 @@ layout: default
     </div>
 </div>
 
-<div class="container">
+<div class="container px-lg-3 px-md-3 px-5">
 <div class="row mb-4 mt-5">
 <div class="col-12">
 <h1>F.A.Q.</h1>
