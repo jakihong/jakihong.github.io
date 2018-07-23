@@ -12,9 +12,9 @@ layout: default
     </div>
 </div>
 
-<div class="container px-lg-3 px-md-3 px-5">
+<div class="container">
 <div class="row mb-4 mt-5">
-<div class="col-12">
+<div class="col-12 px-lg-3 px-md-3 px-5">
 <h1>F.A.Q.</h1>
 <p class="lead">You've got questions.  I've got answers.</p>        
 <p id="faq-q">What are your commercial rates?</p> 
@@ -63,6 +63,5 @@ All prices are <I>per character</I>. Fully rendered commissions have a simple ba
 <p id="faq-q">Do you have any tutorials?</p>
 <P>I have a few tutorials up on by <a href="http://itsmyfreakin.tumblr.com/tagged/tutorial">tumblr</a> and <a href="http://www.youtube.com/c/JakiHong">youtube</a>.  If you have any questions about my process, feel free to drop me a line!</P>
 <hr class="mt-5"></div>
-</div>
 </div>
 {% include contactform.html %}
