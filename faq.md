@@ -30,8 +30,8 @@ layout: default
             <h5 class="card-title">Fully Rendered</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><B>$120</B> - Full-body</li>
-                <li class="list-group-item"><B>$80</B> - Waist-up</li>
-                <li class="list-group-item"><B>$50</B> - Portrait</li>
+                <li class="list-group-item"><B>$90</B> - Waist-up</li>
+                <li class="list-group-item"><B>$60</B> - Portrait</li>
             </ul>
         </div>
     </div>  
@@ -40,8 +40,8 @@ layout: default
             <h5 class="card-title">Lineart</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><B>$90</B> - Full-body</li>
-                <li class="list-group-item"><B>$60</B> - Waist-up</li>
-                <li class="list-group-item"><B>$35</B> - Portrait</li>
+                <li class="list-group-item"><B>$75</B> - Waist-up</li>
+                <li class="list-group-item"><B>$50</B> - Portrait</li>
             </ul>
         </div>
     </div>
@@ -50,8 +50,8 @@ layout: default
             <h5 class="card-title">Sketch</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><B>$75</B> - Full-body</li>
-                <li class="list-group-item"><B>$45</B> - Waist-up</li>
-                <li class="list-group-item"><B>$20</B> - Portrait</li>
+                <li class="list-group-item"><B>$55</B> - Waist-up</li>
+                <li class="list-group-item"><B>$40</B> - Portrait</li>
             </ul>
         </div>
     </div>
