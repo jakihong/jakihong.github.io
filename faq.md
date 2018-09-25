@@ -7,15 +7,15 @@ layout: default
 <div class="container-fluid ml-0 mr-0 pl-0 pr-0 pb-0" id="top-container-gallery">
     <div class="row">
                 <div class="card col-12" id="gallery-frame">
-                    <img class="card-img-top" src="/assets/FAQ_header.png" alt="Card image cap">
+                    <img class="card-img-top" src="/assets/faq_header.png" alt="Card image cap">
                 </div>
     </div>
 </div>
 
 <div class="container">
 <div class="row mb-4 mt-5">
-<div class="col-12 px-lg-3 px-md-3 px-5">
-<h1>F.A.Q.</h1>
+<div class="col-12">
+<h2>F.A.Q.</h2>
 <p class="lead">You've got questions.  I've got answers.</p>        
 <p id="faq-q">What are your commercial rates?</p> 
         
@@ -24,34 +24,34 @@ layout: default
 <p id="faq-q">What are your rates for personal commissions?</p>
 <p>My rates vary depending on the complexity of the proposed project, but the basics are as follows:
         
-<div class="card-deck my-3">
-    <div class="card">
-        <div class="card-body">
+<div class="card-deck my-5">
+    <div class="card" ID="list-card">
+        <div class="card-body" ID="list-card-container">
             <h5 class="card-title">Fully Rendered</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><B>$120</B> - Full-body</li>
-                <li class="list-group-item"><B>$90</B> - Waist-up</li>
-                <li class="list-group-item"><B>$60</B> - Portrait</li>
-            </ul>
-        </div>
-    </div>  
-    <div class="card">
-        <div class="card-body">
-            <h5 class="card-title">Lineart</h5>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item"><B>$90</B> - Full-body</li>
-                <li class="list-group-item"><B>$75</B> - Waist-up</li>
+                <li class="list-group-item"><B>$80</B> - Waist-up</li>
                 <li class="list-group-item"><B>$50</B> - Portrait</li>
             </ul>
         </div>
+    </div>  
+    <div class="card" ID="list-card">
+        <div class="card-body" ID="list-card-container">
+            <h5 class="card-title">Lineart</h5>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item"><B>$90</B> - Full-body</li>
+                <li class="list-group-item"><B>$60</B> - Waist-up</li>
+                <li class="list-group-item"><B>$35</B> - Portrait</li>
+            </ul>
+        </div>
     </div>
-    <div class="card">
-        <div class="card-body">
+    <div class="card" ID="list-card">
+        <div class="card-body" ID="list-card-container">
             <h5 class="card-title">Sketch</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><B>$75</B> - Full-body</li>
-                <li class="list-group-item"><B>$55</B> - Waist-up</li>
-                <li class="list-group-item"><B>$40</B> - Portrait</li>
+                <li class="list-group-item"><B>$45</B> - Waist-up</li>
+                <li class="list-group-item"><B>$20</B> - Portrait</li>
             </ul>
         </div>
     </div>
