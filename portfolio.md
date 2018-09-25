@@ -10,11 +10,11 @@ layout: default
                     <div id="gallery-heading-container">
                         <h1>Illustration</h1>
                         <p class="lead">Projects focusing on character design, costume design, and illustrative compositions.</p>
-                        <P>Previous works include fanart and a number of promotional illustrations of characters from my webcomic, KISMET.  Projects were completed using Clip Studio Paint and Adobe Photoshop.</p>
+                        <P>Previous works include fanart for <I>Dragon Age: Inquisition</I>, <I>Overwatch</I>, and a number of promotional illustrations of characters from my webcomic, KISMET.  Projects were completed using Clip Studio Paint and Adobe Photoshop.</p>
                     </div>
                 </div>
                 <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/Phaedra/"><img class="card-img-top" src="/assets/gallery1.png" alt="Card image cap"></a>
+                    <a href="/projects/phaedra/"><img class="card-img-top" src="/assets/gallery1.png" alt="Card image cap"></a>
                 </div>
                 <div class="card col-lg-3 col-6" id="gallery-frame">
                     <a href="/projects/frozen/"><img class="card-img-top" src="/assets/gallery2.png" alt="Card image cap"></a>
@@ -25,18 +25,18 @@ layout: default
                 <a href="/projects/tertia/"><img class="card-img-top" src="/assets/gallery3.png" alt="Card image cap"></a>
             </div>
             <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/DVA/"><img class="card-img-top" src="/assets/gallery4.png" alt="Card image cap"></a>
+                <a href="/projects/dva/"><img class="card-img-top" src="/assets/gallery4.png" alt="Card image cap"></a>
             </div>
             <div class="card col-lg-3 col-6" id="gallery-frame">
                 <a href="/projects/smokinggun/"><img class="card-img-top" src="/assets/gallery17.png" alt="Card image cap"></a>
             </div>
             <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/Cullen/"><img class="card-img-top" src="/assets/gallery6.png" alt="Card image cap"></a>
+                <a href="/projects/cullen/"><img class="card-img-top" src="/assets/gallery6.png" alt="Card image cap"></a>
             </div>
     </div>
     <div class="row">
             <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/Dal/"><img class="card-img-top" src="/assets/gallery10.png" alt="Card image cap"></a>
+                <a href="/projects/dal/"><img class="card-img-top" src="/assets/gallery10.png" alt="Card image cap"></a>
             </div>
             <div class="card col-lg-3 col-6" id="gallery-frame">
                 <a href="/projects/cover/"><img class="card-img-top" src="/assets/gallery12.png" alt="Card image cap"></a>
@@ -45,7 +45,7 @@ layout: default
                 <a href="/projects/tarot/"><img class="card-img-top" src="/assets/gallery18.png" alt="Card image cap"></a>
             </div>
             <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/Decadence/"><img class="card-img-top" src="/assets/gallery15.png" alt="Card image cap"></a>
+                <a href="/projects/decadence/"><img class="card-img-top" src="/assets/gallery15.png" alt="Card image cap"></a>
             </div>
     </div>
     <div class="row"><a name="graphicdesign"></a>
@@ -74,7 +74,7 @@ layout: default
                 <a href="/projects/WS450/"><img class="card-img-top" src="/assets/gallery19.png" alt="Card image cap"></a>
             </div>
             <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/wgsbranding/"><img class="card-img-top" src="/assets/gallery13.png" alt="Card image cap"></a>
+                <a href="/projects/WGSbranding/"><img class="card-img-top" src="/assets/gallery13.png" alt="Card image cap"></a>
             </div>
     </div>
     <div class="row"><a name="webdesign"></a>
