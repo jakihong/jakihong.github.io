@@ -42,48 +42,48 @@ layout: default
                 <p class="lead">My webcomic, <a href="http://www.kismet-comic.com">KISMET</a>, has been featured on the front page of <a href="https://tapas.io/">Tapas.io</a> and won <a href="http://startfaire.com/eiwawardswinners.shtml">StArtFaire's</a> "Excellence in Science Fiction" award in 2016. </p>
                 <p class="lead"><a class="btn btn-primary btn-lg mt-2" href="#contactform" role="button" id="contact-button">Contact Me!</a></p>
             </div>
-            <hr class="mt-0 mb-5" />
         </div>
     </div>
 
-<div class="container px-lg-3 px-md-3 px-5">
-    <h2>Past Projects</h2>
-    <p class="lead mb-4">View some samples of the work I've done in the past:</p>
-    <div class="row mb-5">                    
-        <div class="col-md-12 col-lg-4"><a href="portfolio#illustration">
-            <div class="card mb-2" id="specialty">
-                <div class="card-body text-center" id="specialtycontainer">
-                    <h2 class="card-title">Illustration</h2>
-                    <hr id="specialty-hr" />
-                    <div class="card-text px-5" id="card-flavor">
-                    Projects focusing on character design, costume design, and illustrative compositions.
+<div class="container-fluid px-5" id="specialties_container">
+    <div class="container px-1">
+        <h2 class="my-2">Past Projects</h2>
+        <p class="lead mb-4">View some samples of the work I've done in the past:</p>
+        <div class="row mb-5">                    
+            <div class="col-md-12 col-lg-4"><a href="portfolio/#illustration">
+                <div class="card mb-4 mb-md-4 mb-lg-2" id="specialty">
+                    <div class="card-body text-center" id="specialtycontainer">
+                        <h2 class="card-title">Illustration</h2>
+                        <hr id="specialty-hr" />
+                        <div class="card-text px-5" id="card-flavor">
+                        Projects focusing on character design, costume design, and illustrative compositions.
+                        </div>
+                    </div>
+                </div> 
+            </a></div>
+            <div class="col-md-12 col-lg-4"><a href="portfolio/#graphicdesign">
+                <div class="card mb-4 mb-md-4 mb-lg-2" id="specialty">
+                    <div class="card-body text-center" id="specialtycontainer">
+                        <h2 class="card-title">Graphic Design</h2>
+                        <hr id="specialty-hr" />
+                        <div class="card-text px-5" id="card-flavor">
+                        Projects including event flyers, logo designs, and styled presentations.
+                        </div>
                     </div>
                 </div>
-            </div> 
-        </a></div>
-        <div class="col-md-12 col-lg-4"><a href="portfolio#graphicdesign">
-            <div class="card mb-2" id="specialty">
-                <div class="card-body text-center" id="specialtycontainer">
-                    <h2 class="card-title">Graphic Design</h2>
-                    <hr id="specialty-hr" />
-                    <div class="card-text px-5" id="card-flavor">
-                    Projects including event flyers, logo designs, and styled presentations.
+            </a></div>
+            <div class="col-md-12 col-lg-4"><a href="portfolio/#webdesign">
+                <div class="card mb-2" id="specialty">
+                    <div class="card-body text-center" id="specialtycontainer">
+                        <h2 class="card-title">Web Design</h2>
+                        <hr id="specialty-hr" />
+                        <div class="card-text px-5" id="card-flavor">
+                        Projects including websites, blog layouts, coded using HTML and CSS.
+                        </div>
                     </div>
                 </div>
-            </div>
-        </a></div>
-        <div class="col-md-12 col-lg-4"><a href="portfolio#webdesign">
-            <div class="card mb-2" id="specialty">
-                <div class="card-body text-center" id="specialtycontainer">
-                    <h2 class="card-title">Web Design</h2>
-                    <hr id="specialty-hr" />
-                    <div class="card-text px-5" id="card-flavor">
-                    Projects including websites, blog layouts, coded using HTML and CSS.
-                    </div>
-                </div>
-            </div>
-        </a></div>
+            </a></div>
+        </div>
     </div>
-    <hr class="mb-5" />
 </div>
 {% include contactform.html %}
