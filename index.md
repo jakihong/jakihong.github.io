@@ -50,7 +50,7 @@ layout: default
         <h2 class="my-2">Past Projects</h2>
         <p class="lead mb-4">View some samples of the work I've done in the past:</p>
         <div class="row mb-5">                    
-            <div class="col-md-12 col-lg-4"><a href="portfolio/#illustration">
+            <div class="col-md-12 col-lg-4"><a href="portfolio#illustration">
                 <div class="card mb-4 mb-md-4 mb-lg-2 px-3" id="specialty">
                     <div class="card-body text-center" id="specialtycontainer">
                         <h2 class="card-title">Illustration</h2>
@@ -61,7 +61,7 @@ layout: default
                     </div>
                 </div> 
             </a></div>
-            <div class="col-md-12 col-lg-4"><a href="portfolio/#graphicdesign">
+            <div class="col-md-12 col-lg-4"><a href="portfolio#graphicdesign">
                 <div class="card mb-4 mb-md-4 mb-lg-2 px-3" id="specialty">
                     <div class="card-body text-center" id="specialtycontainer">
                         <h2 class="card-title">Graphic Design</h2>
@@ -72,7 +72,7 @@ layout: default
                     </div>
                 </div>
             </a></div>
-            <div class="col-md-12 col-lg-4"><a href="portfolio/#webdesign">
+            <div class="col-md-12 col-lg-4"><a href="portfolio#webdesign">
                 <div class="card mb-2 px-3" id="specialty">
                     <div class="card-body text-center" id="specialtycontainer">
                         <h2 class="card-title">Web Design</h2>
