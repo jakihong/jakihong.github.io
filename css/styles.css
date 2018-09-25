@@ -21,6 +21,12 @@ a:hover {
   text-decoration: none !important;
   color: #2bc3c9 !important; }
 
+h2 {
+  letter-spacing: .2em;
+  font-family: "Raleway", sans-serif !important;
+  text-transform: uppercase;
+}
+
 #contact-button {
   background-color: #ff6699;
   color: #fff !important;
@@ -30,17 +36,49 @@ a:hover {
   background-color: #455464 !important;
   color: #2bc3c9 !important; }
 
-#top-container-widget {
-  background: #ffe0ef;
-  /* For browsers that do not support gradients */
-  background: linear-gradient(#333, #444);
-  /* Standard syntax (must be last) */
-  margin: 0 0 0 0;
-  z-index: -1; }
+#contactform .nav-item a {
+  font-family: "Raleway", sans-serif !important;
+  font-size: 15px;
+  font-weight: 200 !important;  
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+#header-logo {
+  font-family: "Raleway", sans-serif;
+  letter-spacing: .3em;
+  line-height: 1.5em;
+  font-size: 1em;
+  margin-left: 15px;
+  font-weight: 500 !important;
+  text-transform: uppercase;
+}
+#header-logo:hover {
+  font-family: "Raleway", sans-serif;
+  letter-spacing: .3em;
+  color: #ff6699 !important;
+  line-height: 1.5em;
+  font-size: 1em;
+  font-weight: 500 !important;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: rgba(0,0,0,0.65) !important;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: .15em;
+  line-height: 1.5em;
+  font-size: .8em;
+  font-weight: 200 !important;
+  text-transform: uppercase;
+  margin: 0 15px;
+}
+.nav-link:hover {
+  color: rgba(0,0,0,1.0) !important;
+}
 
 nav.navbar {
-  background-color: #fff !important;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.2); }
+  box-shadow: 0 5px 4px -4px rgba(0, 0, 0, 0.2); }
 
 #header-logo {
   text-transform: uppercase; }
@@ -68,10 +106,19 @@ nav.navbar {
 #footer-container a:hover {
   color: #2bc3c9 !important; }
 
+#specialties_container {
+  padding-top: 2rem;
+  background-color: #ffffff;
+  background: url('/../assets/stripe_bg_3.png') repeat;
+  border-bottom: 1px solid rgba(0, 0, 0, 0);
+  margin-bottom: 2.5rem;
+}
+
 #specialty {
-  border-radius: 0.25rem;
-  border: 0px transparent;
-  background-color: #e8e5e1;
+  border-radius: 0px !important;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 5px solid #455464;
+  background-color: #fff;
   vertical-align: bottom;
   padding: 50px 0 50px 0;
   -webkit-transition: all 0.5s;
@@ -80,8 +127,10 @@ nav.navbar {
   color: rgba(0, 0, 0, 0.3); }
 
 #specialty:hover {
-  background: #9e9e9e;
-  color: #fff !important;
+  border-radius: 0px !important;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 5px solid #2bc3c9;
+  background: #fff;
   -webkit-transition: all 0.5s;
   /* Safari */
   transition: all 0.5s; }
@@ -89,11 +138,14 @@ nav.navbar {
 #specialtycontainer {
   padding: 0px !important; }
 
-#specialty h2 {
+#specialty h2, #list-card .card-body h5 {
   margin-bottom: 0px !important;
   text-shadow: 0 0 0 !important;
-  line-height: 30px;
+  line-height: 25px;
+  font-size: 25px;
   text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: .15em;
   text-decoration: none !important; }
 
 #specialty-hr {
@@ -101,8 +153,44 @@ nav.navbar {
   margin-top: 20px;
   margin-bottom: 20px; }
 
+#list-card {
+  border-radius: 0px !important;
+  border-left: 5px solid rgba(0,0,0,0.15);
+}
+#list-card:hover {
+  border-radius: 0px !important;
+  border-left: 5px solid #2bc3c9;
+  background: #fff;
+  -webkit-transition: all 0.5s;
+  /* Safari */
+  transition: all 0.5s; }
+#list-card-container {
+  padding: 1rem !important;
+}
+#list-card .card-body h5 {
+  color: rgba(0, 0, 0, 0.3);
+  font-weight: 100 !important;
+  padding: .5rem 0 1rem .5rem;
+}
+.list-group-item {
+  border: 0px !important;
+}
+
 #top-container-gallery {
   overflow: hidden; }
+
+#faq-q {
+  font-family: 'Raleway', sans-serif; 
+  font-size: .8em; 
+  text-transform: uppercase; 
+  letter-spacing: .15em; 
+  display: inline-block; 
+  padding: 0 5px 0 20px; 
+  margin-top: 15px; 
+  background:rgba(69,84,100,0.85); 
+  color: #fff; 
+  line-height: 1.5em;
+}
 
 #gallery-frame {
   margin: 0px;
@@ -155,9 +243,6 @@ br.rwd-break {
   overflow: hidden;
 }
 
-#faq-q {
-  font-weight: bold;
-}
 
 /*!
  * Bootstrap v4.1.1 (https://getbootstrap.com/)
