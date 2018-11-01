@@ -6,7 +6,7 @@ layout: default
 ---
 <!-- Page Content -->
 <div class="container mb-5">
-        <div class="row ml-1" id="illust">
+        <div class="row mx-xl-1 mx-lg-1 mx-md-1 mx-2" id="illust">
             <h2>Illustration</h2>
             <div>
             <P class="resume-subheading">Projects focusing on character design, costume design, and illustrative compositions.</P>
@@ -79,7 +79,7 @@ layout: default
 
 <!-- Page Content -->
 <div class="container mb-5">
-    <div class="row ml-1" id="gdesign">
+    <div class="row mx-xl-1 mx-lg-1 mx-md-1 mx-2" id="gdesign">
         <h2>Graphic Design</h2>
         <div>
         <P class="resume-subheading">Projects including event flyers, logo designs, and styled presentations.</P>
@@ -121,7 +121,7 @@ layout: default
 </div>
 <!-- Page Content -->
 <div class="container mb-5" id="wdesign">
-        <div class="row ml-1">
+        <div class="row mx-xl-1 mx-lg-1 mx-md-1 mx-2">
             <h2>Web Design</h2>
             <div>
             <P class="resume-subheading">Projects including websites, blog layouts, coded using HTML and CSS.</P>
