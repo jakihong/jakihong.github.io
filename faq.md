@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<div class="container">
+<div class="container px-xl-3 px-lg-3 px-md-3 px-4">
 <h1>F.A.Q.</h1>
 <p class="lead">You've got questions. I've got answers.</p>
 <P class="resume-heading">WHAT ARE YOUR COMMERCIAL RATES?</P>
