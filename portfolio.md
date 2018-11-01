@@ -45,8 +45,8 @@ layout: default
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
-            <a href="#" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery11.png" alt="">
+            <a href="/projects/jackalope/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery21.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
