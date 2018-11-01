@@ -55,7 +55,7 @@ layout: default
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
-            <a href="/projects/decadence/" class="d-block mb-3 p-1">
+            <a href="/projects/Decadence/" class="d-block mb-3 p-1">
                   <img class="img-fluid img-thumbnail" src="assets/gallery15.png" alt="">
                 </a>
           </div>
