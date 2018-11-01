@@ -4,64 +4,49 @@
 
 layout: default
 ---
-<div class="container-fluid ml-0 mr-0 pl-0 pr-0 pb-0" id="top-container-gallery">
-    <div class="row">
-                <div class="card col-12" id="gallery-frame">
-                    <img class="card-img-top" src="/assets/FAQ_header.png" alt="Card image cap">
-                </div>
-    </div>
-</div>
-
 <div class="container">
-<div class="row mb-4 mt-5">
-<div class="col-12">
-<h2>F.A.Q.</h2>
-<p class="lead">You've got questions.  I've got answers.</p>        
-<p id="faq-q">What are your commercial rates?</p> 
-        
-<p>Please contact me with any inquiries for commercial work by using the <a href="#contactform">contact form below.</a></P>
-                        
-<p id="faq-q">What are your rates for personal commissions?</p>
-<p>My rates vary depending on the complexity of the proposed project, but the basics are as follows:
-        
-<div class="card-deck my-5">
-    <div class="card" ID="list-card">
-        <div class="card-body" ID="list-card-container">
+<h1>F.A.Q.</h1>
+<p class="lead">You've got questions. I've got answers.</p>
+<P class="resume-heading">WHAT ARE YOUR COMMERCIAL RATES?</P>
+<P>Please contact me with any inquiries for commercial work by using the contact form below.</P>
+<P class="resume-heading">WHAT ARE YOUR RATES FOR PERSONAL COMMISSIONS?</P>
+<P>My rates vary depending on the complexity of the proposed project, but the basics are as follows:</P>
+<div class="card-deck my-4">
+    <div class="card pt-2" id="list-card">
+        <div class="card-body" id="list-card-container">
             <h5 class="card-title">Fully Rendered</h5>
             <ul class="list-group list-group-flush">
-                <li class="list-group-item"><B>$120</B> - Full-body</li>
-                <li class="list-group-item"><B>$80</B> - Waist-up</li>
-                <li class="list-group-item"><B>$50</B> - Portrait</li>
+                <li class="list-group-item"><b>$120</b> - Full-body</li>
+                <li class="list-group-item"><b>$80</b> - Waist-up</li>
+                <li class="list-group-item"><b>$50</b> - Portrait</li>
             </ul>
         </div>
     </div>  
-    <div class="card" ID="list-card">
-        <div class="card-body" ID="list-card-container">
+    <div class="card pt-2" id="list-card">
+        <div class="card-body" id="list-card-container">
             <h5 class="card-title">Lineart</h5>
             <ul class="list-group list-group-flush">
-                <li class="list-group-item"><B>$90</B> - Full-body</li>
-                <li class="list-group-item"><B>$60</B> - Waist-up</li>
-                <li class="list-group-item"><B>$35</B> - Portrait</li>
+                <li class="list-group-item"><b>$90</b> - Full-body</li>
+                <li class="list-group-item"><b>$60</b> - Waist-up</li>
+                <li class="list-group-item"><b>$35</b> - Portrait</li>
             </ul>
         </div>
     </div>
-    <div class="card" ID="list-card">
-        <div class="card-body" ID="list-card-container">
+    <div class="card pt-2" id="list-card">
+        <div class="card-body" id="list-card-container">
             <h5 class="card-title">Sketch</h5>
             <ul class="list-group list-group-flush">
-                <li class="list-group-item"><B>$75</B> - Full-body</li>
-                <li class="list-group-item"><B>$45</B> - Waist-up</li>
-                <li class="list-group-item"><B>$20</B> - Portrait</li>
+                <li class="list-group-item"><b>$75</b> - Full-body</li>
+                <li class="list-group-item"><b>$45</b> - Waist-up</li>
+                <li class="list-group-item"><b>$20</b> - Portrait</li>
             </ul>
         </div>
     </div>
 </div>
-All prices are <I>per character</I>. Fully rendered commissions have a simple background (consisting of a color gradient and some textures) included in the cost! Adding a more elaborate background/setting for your illustration will come at an additional cost (determined by the complexity of the requested background).</P>
-<P>It probably goes without saying that <B>personal commissions are for PERSONAL USE ONLY</B>--please send me a message if you're interested in hiring me for commercial work!</P>
-<P>I retain all the rights to my work.</p>
+<P>All prices are per character. Fully rendered commissions have a simple background (consisting of a color gradient and some textures) included in the cost! Adding a more elaborate background/setting for your illustration will come at an additional cost (determined by the complexity of the requested background).
+It probably goes without saying that personal commissions are for PERSONAL USE ONLY--please send me a message if you're interested in hiring me for commercial work!</P>
+<P>I retain all the rights to my work.</P>
 <P>I will usually post a low-resolution, watermarked image of the completed commission on my social media accounts.</P>
-<p id="faq-q">Do you have any tutorials?</p>
-<P>I have a few tutorials up on by <a href="http://itsmyfreakin.tumblr.com/tagged/tutorial">tumblr</a> and <a href="http://www.youtube.com/c/JakiHong">youtube</a>.  If you have any questions about my process, feel free to drop me a line!</P>
-<hr class="mt-5"></div>
+<P class="resume-heading">DO YOU HAVE ANY TUTORIALS?</P>
+<P>I have a few tutorials up on by <a href="http://itsmyfreakin.tumblr.com/tagged/tutorial" style="font-weight: 600;">tumblr</a> and <a href="http://www.youtube.com/c/JakiHong" style="font-weight: 600;">youtube</a>. If you have any questions about my process, feel free to drop me a line!</P>
 </div>
-{% include contactform.html %}

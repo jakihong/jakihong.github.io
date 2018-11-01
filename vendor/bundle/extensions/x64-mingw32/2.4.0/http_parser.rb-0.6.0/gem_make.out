@@ -1,17 +1,17 @@
-current directory: C:/Users/Jaki/bs4/jakihong.github.io/portfolio_blog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180708-3476-nw1m5p.rb extconf.rb
+current directory: C:/Users/Jaki/Work/portfolio-site/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20181015-5060-r0roma.rb extconf.rb
 creating Makefile
 
-current directory: C:/Users/Jaki/bs4/jakihong.github.io/portfolio_blog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: C:/Users/Jaki/Work/portfolio-site/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" clean
 
-current directory: C:/Users/Jaki/bs4/jakihong.github.io/portfolio_blog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: C:/Users/Jaki/Work/portfolio-site/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR="
 generating ruby_http_parser-x64-mingw32.def
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
-current directory: C:/Users/Jaki/bs4/jakihong.github.io/portfolio_blog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: C:/Users/Jaki/Work/portfolio-site/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20180708-3476-1epo9a3
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20181015-5060-fkam5y

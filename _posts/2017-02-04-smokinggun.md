@@ -10,4 +10,4 @@ date:   2017-02-04 00:00:00 -0500
 categories: projects
 permalink: /:categories/:title/
 ---
-Cover illustration of characters from my webcomic, <a href="http://www.kismet-comic.com">KISMET</a>.
+Cover illustration of characters from my webcomic, <a href="http://www.kismet-comic.com">KISMET</a>. Posted upon reaching 11,000 subscribers on <a href="http://www.tapas.io">Tapastic</a>.

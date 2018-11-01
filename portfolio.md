@@ -4,93 +4,145 @@
 
 layout: default
 ---
-<div class="container-fluid ml-0 mr-0 pl-0 pr-0 pb-0 mb-5" id="top-container-gallery">
-    <div class="row"><a name="illustration"></a>
-                <div class="card col-lg-6 col-12 align-bottom" id="gallery-heading">
-                    <div id="gallery-heading-container">
-                        <h1>Illustration</h1>
-                        <p class="lead">Projects focusing on character design, costume design, and illustrative compositions.</p>
-                        <P>Previous works include fanart for <I>Dragon Age: Inquisition</I>, <I>Overwatch</I>, and a number of promotional illustrations of characters from my webcomic, KISMET.  Projects were completed using Clip Studio Paint and Adobe Photoshop.</p>
-                    </div>
-                </div>
-                <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/phaedra/"><img class="card-img-top" src="/assets/gallery1.png" alt="Card image cap"></a>
-                </div>
-                <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/frozen/"><img class="card-img-top" src="/assets/gallery2.png" alt="Card image cap"></a>
-                </div>
+<!-- Page Content -->
+<div class="container mb-5">
+        <div class="row ml-1" id="illust">
+            <h2>Illustration</h2>
+            <div>
+            <P class="resume-subheading">Projects focusing on character design, costume design, and illustrative compositions.</P>
+            <P class="small">Previous works include fanart for <I>Dragon Age: Inquisition</I>, <I>Overwatch</I>, and a number of promotional illustrations of characters from my webcomic, <a href="http://www.kismet-comic.com">KISMET</a>. Projects were completed using Clip Studio Paint and Adobe Photoshop.</P>
+            </div>
+        </div>
+        <div class="row text-center text-lg-left">
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/phaedra/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery1.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/frozen/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery2.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/tertia/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery3.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/DVA/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery4.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/Cullen/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery6.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/Dal/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery10.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="#" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery11.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/cover/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery12.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/decadence/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery15.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/kismet/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery16.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/smokinggun/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery17.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/tarot/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery18.png" alt="">
+                </a>
+          </div>
+        </div>
     </div>
-    <div class="row">
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/tertia/"><img class="card-img-top" src="/assets/gallery3.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/dva/"><img class="card-img-top" src="/assets/gallery4.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/smokinggun/"><img class="card-img-top" src="/assets/gallery17.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/cullen/"><img class="card-img-top" src="/assets/gallery6.png" alt="Card image cap"></a>
-            </div>
+
+<!-- Page Content -->
+<div class="container mb-5">
+    <div class="row ml-1" id="gdesign">
+        <h2>Graphic Design</h2>
+        <div>
+        <P class="resume-subheading">Projects including event flyers, logo designs, and styled presentations.</P>
+        <P class="small">Previous works include promotional materials for academic events at Boston University. Projects were completed using Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Microsoft Powerpoint.</P>
+        </div>
     </div>
-    <div class="row">
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/dal/"><img class="card-img-top" src="/assets/gallery10.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/cover/"><img class="card-img-top" src="/assets/gallery12.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/tarot/"><img class="card-img-top" src="/assets/gallery18.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/decadence/"><img class="card-img-top" src="/assets/gallery15.png" alt="Card image cap"></a>
-            </div>
-    </div>
-    <div class="row"><a name="graphicdesign"></a>
-                <div class="card col-lg-6 col-12 align-bottom" id="gallery-heading">
-                    <div id="gallery-heading-container">
-                        <h1>Graphic Design</h1>
-                        <p class="lead">Projects including event flyers, logo designs, and styled presentations.</p>
-                        <P>Previous works include promotional materials for academic events at Boston University.  Projects were completed using Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Microsoft Powerpoint.</p>
-                    </div>
-                </div>
-                <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/brewhaha/"><img class="card-img-top" src="/assets/gallery5.png" alt="Card image cap"></a>
-                </div>
-                <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/WS326/"><img class="card-img-top" src="/assets/gallery9.png" alt="Card image cap"></a>
-                </div>
-    </div>
-    <div class="row">
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/changecontinuity/"><img class="card-img-top" src="/assets/gallery14.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/trubble/"><img class="card-img-top" src="/assets/gallery8.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/WS450/"><img class="card-img-top" src="/assets/gallery19.png" alt="Card image cap"></a>
-            </div>
-            <div class="card col-lg-3 col-6" id="gallery-frame">
-                <a href="/projects/WGSbranding/"><img class="card-img-top" src="/assets/gallery13.png" alt="Card image cap"></a>
-            </div>
-    </div>
-    <div class="row"><a name="webdesign"></a>
-                <div class="card col-lg-6 col-12 align-bottom" id="gallery-heading">
-                    <div id="gallery-heading-container">
-                        <h1>Web Design</h1>
-                        <p class="lead">Projects including websites, blog layouts, coded using HTML and CSS.</p>
-                        <P>Previous works include personal blog and website layouts.  Projects were coded with BootStrap and Jekyll for hosting on GitHub, Wordpress, and Tumblr.</p>
-                    </div>
-                </div>
-                <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/tumblr/"><img class="card-img-top" src="/assets/gallery7.png" alt="Card image cap"></a>
-                </div>
-                <div class="card col-lg-3 col-6" id="gallery-frame">
-                    <a href="/projects/wordpress/"><img class="card-img-top" src="/assets/gallery20.png" alt="Card image cap"></a>
-                </div>
+    <div class="row text-center text-lg-left">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+        <a href="/projects/brewhaha/" class="d-block mb-3 p-1">
+              <img class="img-fluid img-thumbnail" src="assets/gallery5.png" alt="">
+            </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+        <a href="/projects/WS326/" class="d-block mb-3 p-1">
+              <img class="img-fluid img-thumbnail" src="assets/gallery9.png" alt="">
+            </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+        <a href="/projects/WGSBranding/" class="d-block mb-3 p-1">
+              <img class="img-fluid img-thumbnail" src="assets/gallery13.png" alt="">
+            </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+        <a href="/projects/changecontinuity" class="d-block mb-3 p-1">
+              <img class="img-fluid img-thumbnail" src="assets/gallery14.png" alt="">
+            </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+        <a href="/projects/trubble/" class="d-block mb-3 p-1">
+              <img class="img-fluid img-thumbnail" src="assets/gallery8.png" alt="">
+            </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+        <a href="/projects/WS450/" class="d-block mb-3 p-1">
+              <img class="img-fluid img-thumbnail" src="assets/gallery19.png" alt="">
+            </a>
+      </div>
     </div>
 </div>
-{% include contactform.html %}
+<!-- Page Content -->
+<div class="container mb-5" id="wdesign">
+        <div class="row ml-1">
+            <h2>Web Design</h2>
+            <div>
+            <P class="resume-subheading">Projects including websites, blog layouts, coded using HTML and CSS.</P>
+            <P class="small">Previous works include personal blog and website layouts. Projects were coded with BootStrap and Jekyll for hosting on GitHub, Wordpress, and Tumblr.</P>
+            </div>
+        </div>
+        <div class="row text-center text-lg-left">
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/tumblr/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery7.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/wordpress" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery20.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/motivote" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery11.png" alt="">
+                </a>
+          </div>
+        </div>
+    </div>

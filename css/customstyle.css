@@ -1,0 +1,110 @@
+body {
+    font-family: 'Raleway', sans-serif !important;
+    font-weight: 200;s
+    color: #555 !important; }
+
+a {
+    font-weight: 500;
+    color: #455464 !important; }
+  
+a:hover {
+    text-decoration: none !important;
+    color: #2bc3c9 !important; }
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+#header-links{
+    font-size: 16px;
+    text-transform: uppercase;
+    border-top: 1px solid #ced4da;
+    margin-top: -10px !important;
+    padding: 20px 0 0 0;
+    letter-spacing: 2.5px;
+    color: #ced4da;
+}
+
+#header-links a{
+    font-weight: 400;
+    margin: 0 10px;
+}
+#header-links a:hover{
+    text-decoration:none;
+}
+
+.img-thumbnail {
+    padding:0px !important;
+    border: 0px !important;
+}
+
+#bio-container {
+    background: url(" ") no-repeat top right #fff !important; }
+  
+.jumbotron {
+    background: transparent !important;
+    padding: 2rem 0rem; }
+  
+.jumbotron h1 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #455464 !important; }
+
+@media screen and (min-width: 400px) {
+    br.rwd-break {
+        display: none !important;} }
+
+.resume-heading {
+    letter-spacing: 1px;
+    margin-bottom: -3px !important;
+    margin-top:15px;
+    font-weight: 600;
+}
+.resume-subheading {
+    margin-bottom: 5px !important;
+}
+
+.resume li {
+    list-style: none;
+}
+
+.resume img {
+    height: 35px;
+    margin: 7px 0 0 10px;
+    opacity: 0.6;
+}
+.resume img:hover{
+    opacity: 0.9;
+}
+
+#contact-button {
+    background-color: #ff6699;
+    color: #fff !important;
+    border: 0px; }
+
+.card {
+    opacity: 0.75;
+}    
+.card:hover {
+    opacity: 1.0;
+}
+.card:hover .specialization-icon {
+    opacity: 1.0;
+    color:#2bc3c9;
+}
+.card-title {
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+}
+.specialization-icon {
+    font-size: 50px;
+}
+  
+  #contact-button:hover {
+    background-color: #455464 !important;
+    color: #2bc3c9 !important; }
+.nav-link{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
