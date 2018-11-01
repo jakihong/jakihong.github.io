@@ -98,7 +98,7 @@ layout: default
             </a>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
-        <a href="/projects/WGSBranding/" class="d-block mb-3 p-1">
+        <a href="/projects/wgsbranding/" class="d-block mb-3 p-1">
               <img class="img-fluid img-thumbnail" src="assets/gallery13.png" alt="">
             </a>
       </div>
