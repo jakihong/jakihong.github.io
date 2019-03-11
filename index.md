@@ -134,13 +134,26 @@ layout: default
 <li>HTML</li>
 <li>Jekyll</li>
 <p class="resume-heading">SOFTWARE PROFICIENCIES</P>
-<img src="assets/adobeillustrator.svg" title="Adobe Illustrator"><img src="assets/adobeindesign.svg" title="Adobe InDesign"><img src="assets/adobephotoshop.svg" title="Adobe Photoshop"><img src="assets/microsoftexcel.svg" title="Microsoft Excel"><img src="assets/microsoftword.svg" title="Microsoft Word">
+<img src="assets/adobeillustrator.svg" title="Adobe Illustrator"><img src="assets/adobeindesign.svg" title="Adobe InDesign"><img src="assets/adobephotoshop.svg" title="Adobe Photoshop"><img src="assets/adobepremiere.svg" title="Adobe Premiere"><br><img src="assets/sketch-brands.svg" title="Sketch"><img src="assets/microsoftexcel.svg" title="Microsoft Excel"><img src="assets/microsoftword.svg" title="Microsoft Word">
 </div>
 <div class="col-sm-12 col-md-8 ">
 <p class="resume-heading">EXPERIENCE</P>
+<p class="resume-heading">BOSTON WOMEN IN PRIVATE EQUITY</P>
+<P class="resume-subheading"><font style="font-weight:600;">Freelance Designer</font> | January 2019</P>
+<li>Designed explainer sheet for Boston Women in Private Equity.</li>
+<p class="resume-heading">BANYAN INNOVATIONS</P>
+<P class="resume-subheading"><font style="font-weight:600;">Freelance Designer</font> | January 2019</P>
+<li>Created illustrations for "The Future of Agriculture" slide deck.</li>
+<li>Edited video footage for use in "The Future of Agriculture" presentation.</li>
+<li>Designed slide deck for "The Future of Agriculture" presentation.</li>
 <p class="resume-heading">MOTIVOTE</P>
-<P class="resume-subheading"><font style="font-weight:600;">Freelance Web Designer</font> | October 2018</P>
-<li>Designed and coded a landing page for MotiVote's partnership with Headcount.</li>
+<P class="resume-subheading"><font style="font-weight:600;">Front-End Developer</font> | October 2018, December 2018</P>
+<li>Designed and coded <a href="https://motivote.us/">motivote's website.</a></li>
+<li>Designed and coded a landing page for motivote's partnership with Headcount.</li>
+<p class="resume-heading">COMPASS ADVENTURE COLLECTIVE</P>
+<P class="resume-subheading"><font style="font-weight:600;">Freelance Designer</font> | September 2018 - December 2018</P>
+<li>Created website for Compass Adventure Collective.</li>
+<li>Designed a logo for the company.</li>
 <p class="resume-heading">THE GOOD COUNTRY</P>
 <P class="resume-subheading"><font style="font-weight:600;">Freelance Designer</font> | September 2018</P>
 <li>Created illustrations for explainer sheet.</li>

@@ -12,7 +12,8 @@ layout: default
 <P class="resume-heading">WHAT ARE YOUR RATES FOR PERSONAL COMMISSIONS?</P>
 <P>My rates vary depending on the complexity of the proposed project, but the basics are as follows:</P>
 <div class="card-deck my-4">
-    <div class="card pt-2" id="list-card">
+    <div class="card" id="list-card">
+    <img class="card-img-top" src="assets/FAQ1.png" alt="Card image cap">
         <div class="card-body" id="list-card-container">
             <h5 class="card-title">Fully Rendered</h5>
             <ul class="list-group list-group-flush">
@@ -22,7 +23,8 @@ layout: default
             </ul>
         </div>
     </div>  
-    <div class="card pt-2" id="list-card">
+    <div class="card" id="list-card">
+    <img class="card-img-top" src="assets/FAQ2.png" alt="Card image cap">
         <div class="card-body" id="list-card-container">
             <h5 class="card-title">Lineart</h5>
             <ul class="list-group list-group-flush">
@@ -32,7 +34,8 @@ layout: default
             </ul>
         </div>
     </div>
-    <div class="card pt-2" id="list-card">
+    <div class="card" id="list-card">
+    <img class="card-img-top" src="assets/FAQ3.png" alt="Card image cap">
         <div class="card-body" id="list-card-container">
             <h5 class="card-title">Sketch</h5>
             <ul class="list-group list-group-flush">

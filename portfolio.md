@@ -130,6 +130,11 @@ layout: default
         </div>
         <div class="row text-center text-lg-left">
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
+            <a href="/projects/motivotehomepage/" class="d-block mb-3 p-1">
+                  <img class="img-fluid img-thumbnail" src="assets/gallery22.png" alt="">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/tumblr/" class="d-block mb-3 p-1">
                   <img class="img-fluid img-thumbnail" src="assets/gallery7.png" alt="">
                 </a>
