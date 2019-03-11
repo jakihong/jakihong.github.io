@@ -143,7 +143,7 @@ layout: default
 <li>Designed explainer sheet for Boston Women in Private Equity.</li>
 <p class="resume-heading">LISTEN LOCAL</P>
 <P class="resume-subheading"><font style="font-weight:600;">Front-End Developer</font> | January 2019</P>
-<li>Designed and coded custom website for the Listen Local app in collaboration with <a href="https://github.com/pgrauman">@pgrauman</a></li>
+<li>Designed and coded custom website for the Listen Local app.</li>
 <p class="resume-heading">BANYAN INNOVATIONS</P>
 <P class="resume-subheading"><font style="font-weight:600;">Freelance Designer</font> | January 2019</P>
 <li>Created illustrations for "The Future of Agriculture" slide deck.</li>
