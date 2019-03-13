@@ -162,7 +162,7 @@ layout: default
 <li>Created illustrations for explainer sheet.</li>
 <li>Helped design layout for 2-page spread outlining company policies.</li>
 <P class="resume-heading">DEPARTMENT OF OCCUPATIONAL THERAPY, BOSTON UNIVERSITY</P>
-<P class="resume-subheading"><font style="font-weight:600;">Senior Program Coordinator</font> | October 2016 - Present</P>
+<P class="resume-subheading"><font style="font-weight:600;">Senior Program Coordinator</font> | October 2016 - February 2019</P>
 <li>Designed logos for departmental labs and groups.</li>
 <li>Created graphics for Entry-level OTD Program Open House events.</li>
 <li>Created event flyers and other graphics for departmental activities.</li>
