@@ -91,8 +91,8 @@ a.nav-link:hover {
     color: #E26161 !important;
 }
 .kismet {
-background: #2f2f2f url('https://static.tumblr.com/oqoudze/cY3ptbllu/backgroundstaticcropped.png') no-repeat center top;
-background-size: 115%;
+background: #2f2f2f url('../assets/kismet-bg.png') no-repeat center top;
+background-size: cover;
 font-family: 'Open Sans Condensed', sans-serif;
 color: #949494;
   transform: skewY(-1.5deg);
