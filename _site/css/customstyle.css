@@ -98,8 +98,7 @@ color: #949494;
   transform: skewY(-1.5deg);
 transform-origin: 100%;
 }
-.kismet-title {
-    max-width: 100%;
+.kismettitle {
 }
 .kismet-container {
     transform: skewY(1.5deg);
