@@ -6,7 +6,7 @@ title: "Listen Local"
 completed: "1/20/19"
 tools: "HTML/CSS, Bootstrap, Adobe Photoshop"
 credit: "Peter Grauman"
-date:   20189-01-20 00:00:00 -0500
+date:   2019-01-20 00:00:00 -0500
 categories: projects
 permalink: /:categories/:title/
 ---

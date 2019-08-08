@@ -4,8 +4,9 @@
 
 layout: default
 ---
+{% include spacer.html %}
 <div class="container px-xl-3 px-lg-3 px-md-3 px-4">
-<h1>F.A.Q.</h1>
+<h1 class="peach1">F.A.Q.</h1>
 <p class="lead">You've got questions. I've got answers.</p>
 <P class="resume-heading">WHAT ARE YOUR COMMERCIAL RATES?</P>
 <P>Please contact me with any inquiries for commercial work by using the contact form below.</P>
@@ -13,7 +14,7 @@ layout: default
 <P>My rates vary depending on the complexity of the proposed project, but the basics are as follows:</P>
 <div class="card-deck my-4">
     <div class="card" id="list-card">
-    <img class="card-img-top" src="assets/FAQ1.png" alt="Card image cap">
+    <img class="card-img-top" src="../../assets/FAQ1.png" alt="Card image cap">
         <div class="card-body" id="list-card-container">
             <h5 class="card-title">Fully Rendered</h5>
             <ul class="list-group list-group-flush">
@@ -24,7 +25,7 @@ layout: default
         </div>
     </div>  
     <div class="card" id="list-card">
-    <img class="card-img-top" src="assets/FAQ2.png" alt="Card image cap">
+    <img class="card-img-top" src="../../assets/FAQ2.png" alt="Card image cap">
         <div class="card-body" id="list-card-container">
             <h5 class="card-title">Lineart</h5>
             <ul class="list-group list-group-flush">
@@ -35,7 +36,7 @@ layout: default
         </div>
     </div>
     <div class="card" id="list-card">
-    <img class="card-img-top" src="assets/FAQ3.png" alt="Card image cap">
+    <img class="card-img-top" src="../../assets/FAQ3.png" alt="Card image cap">
         <div class="card-body" id="list-card-container">
             <h5 class="card-title">Sketch</h5>
             <ul class="list-group list-group-flush">
@@ -53,3 +54,4 @@ It probably goes without saying that personal commissions are for PERSONAL USE O
 <P class="resume-heading">DO YOU HAVE ANY TUTORIALS?</P>
 <P>I have a few tutorials up on by <a href="http://itsmyfreakin.tumblr.com/tagged/tutorial" style="font-weight: 600;">tumblr</a> and <a href="http://www.youtube.com/c/JakiHong" style="font-weight: 600;">youtube</a>. If you have any questions about my process, feel free to drop me a line!</P>
 </div>
+{% include spacer.html %}

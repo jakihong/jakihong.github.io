@@ -1,19 +1,181 @@
+html {
+    scroll-behavior: smooth;
+  }
 body {
-    font-family: 'Raleway', sans-serif !important;
-    font-weight: 200;s
-    color: #555 !important; }
-
+    background-color: #ffffff;
+    color: #424B54;
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+}
 a {
-    font-weight: 500;
-    color: #455464 !important; }
-  
+    color: #E26161;
+}
 a:hover {
-    text-decoration: none !important;
-    color: #2bc3c9 !important; }
-
+    text-decoration: none;
+    color: #FFC0B2 !important;
+}
+.trim {
+    border: 7px solid rgb(183, 219, 214);
+    background: rgb(183, 219, 214);
+}
+.deco-line {
+    border: 1px solid #FFC0B2;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 4rem;
+}
 h2 {
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   font-size: 1.25rem;
+   text-transform: uppercase;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 1.5rem;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
+.text-muted {
+    opacity: 0.65;
+}
+.bg-faded .text-muted {
+    color: rgba(255,255,255,0.65) !important;
+}
+.btn-primary:hover {
+    background-color: #E26161 !important;
+    color: #ffffff !important;
+}
+.btn-primary {
+    background-color: #FFC0B2 !important;
+    color: #E26161;
+}
+.brand-color {
+    display: block;
+    padding-top: 100%;
+}
+.bg-faded {
+    background-color: #424B54;
+    color: #ffffff;
+}
+.bg-faded hr {
+    border-color: rgba(255,255,255,0.35);
+}
+.peach1 {
+    color:#E26161;
+}
+.navbar-brand {
+    padding-top: .425rem !important;
+    padding-bottom: 0 !important;
+}
+.nav-item {
     text-transform: uppercase;
-    letter-spacing: 4px;
+}
+.nav-link-social {
+    padding: 0 .5rem;
+    color: #E26161;
+}
+.nav-link-social:hover {
+    color: #FFC0B2  !important;
+}
+a.nav-link {
+    color: inherit;
+}
+a.nav-link:hover {
+    color: #E26161 !important;
+}
+.kismet {
+background: #2f2f2f url('https://static.tumblr.com/oqoudze/cY3ptbllu/backgroundstaticcropped.png') no-repeat center top;
+background-size: 115%;
+font-family: 'Open Sans Condensed', sans-serif;
+color: #949494;
+  transform: skewY(-1.5deg);
+transform-origin: 100%;
+}
+.kismet-container {
+    transform: skewY(1.5deg);
+    transform-origin: 100%; 
+    font-size: 19px;   
+}
+.kismet-btn {
+    background-color: #212529;
+    color: #ffffff;
+    font-size: 24px;
+}
+.kismet-btn:hover {
+    color: #00ffe8;
+    box-shadow: 0px 0px 25px rgba(255, 255, 255, 0.1);
+}
+.focus {
+    border: 0px !important;
+    border-radius: 2px;
+    opacity: 0.6 !important;
+    transition: all 0.5s ease;
+}
+.focus:hover {
+    opacity: 1.0 !important;
+}
+.focus a {
+    color: #424B54;
+}
+.focus a:hover{
+    color: #424B54 !important;
+}
+.focus-body {
+    position: relative;
+}
+.isabelline {
+    background-color: rgb(183, 219, 214);
+}
+.linen {
+    background-color: #FCF0DE;
+}
+.melon {
+    background-color: #FFC0B2;
+}
+.silver-pink {
+    background-color: #C6AFB1;
+    color: #ffffff;
+}
+.icon {
+    font-size: 2.5rem;
+    color: #ffffff;
+    text-shadow: 0 0 3px rgba(0,0,0,0.15);
+    display: block;
+    background-color: rgb(183, 219, 214);
+    width: 3.5rem;
+    height: 3.5rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.middlecol {
+border-left:  1px solid #dee2e6 !important;
+border-right:  1px solid #dee2e6 !important;
+}
+.footerimg {
+    display: block;
+    width: 25px;
+    height: auto;
+}
+.footer a {
+    color: #424B54;
+}
+.footer a:hover {
+    color: rgb(183, 219, 214) !important;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 768px) {
+.middlecol {
+border-left:  0px solid #dee2e6 !important;
+border-right:  0px solid #dee2e6 !important;
+}
 }
 
 #header-links{
@@ -78,10 +240,13 @@ h2 {
     opacity: 0.9;
 }
 
-#contact-button {
-    background-color: #ff6699;
-    color: #fff !important;
+#btn-secondary {
+    background-color: rgb(183, 219, 214) !important;
+    color: #fff !important; 
     border: 0px; }
+#btn-secondary:hover {
+    background-color: #FFC0B2  !important;
+    color: #E26161 !important; }
 
 .card {
     opacity: 0.75;
@@ -100,11 +265,16 @@ h2 {
 .specialization-icon {
     font-size: 50px;
 }
-  
-  #contact-button:hover {
-    background-color: #455464 !important;
-    color: #2bc3c9 !important; }
 .nav-link{
     text-transform: uppercase;
     letter-spacing: 2px;
+}
+.tool {
+    height: 40px;
+    margin: 0 8px 10px 7px;
+    opacity: 0.85;
+}
+.spacer {
+    display: block;
+    width: 100%;
 }

@@ -5,6 +5,7 @@
 layout: default
 ---
 <!-- Page Content -->
+{% include spacer.html %}
 <div class="container mb-5">
         <div class="row mx-xl-1 mx-lg-1 mx-md-1 mx-2" id="illust">
             <h2>Illustration</h2>
@@ -16,62 +17,62 @@ layout: default
         <div class="row text-center text-lg-left">
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/Phaedra/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery1.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery1.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/frozen/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery2.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery2.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/tertia/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery3.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery3.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/DVA/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery4.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery4.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/Cullen/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery6.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery6.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/Dal/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery10.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery10.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/jackalope/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery21.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery21.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/cover/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery12.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery12.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/Decadence/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery15.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery15.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/kismet/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery16.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery16.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/smokinggun/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery17.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery17.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/tarot/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery18.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery18.png" alt="">
                 </a>
           </div>
         </div>
@@ -89,32 +90,32 @@ layout: default
     <div class="row text-center text-lg-left">
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
         <a href="/projects/brewhaha/" class="d-block mb-3 p-1">
-              <img class="img-fluid img-thumbnail" src="assets/gallery5.png" alt="">
+              <img class="img-fluid img-thumbnail" src="../../assets/gallery5.png" alt="">
             </a>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
         <a href="/projects/WS326/" class="d-block mb-3 p-1">
-              <img class="img-fluid img-thumbnail" src="assets/gallery9.png" alt="">
+              <img class="img-fluid img-thumbnail" src="../../assets/gallery9.png" alt="">
             </a>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
         <a href="/projects/wgsbranding/" class="d-block mb-3 p-1">
-              <img class="img-fluid img-thumbnail" src="assets/gallery13.png" alt="">
+              <img class="img-fluid img-thumbnail" src="../../assets/gallery13.png" alt="">
             </a>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
         <a href="/projects/changecontinuity" class="d-block mb-3 p-1">
-              <img class="img-fluid img-thumbnail" src="assets/gallery14.png" alt="">
+              <img class="img-fluid img-thumbnail" src="../../assets/gallery14.png" alt="">
             </a>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
         <a href="/projects/trubble/" class="d-block mb-3 p-1">
-              <img class="img-fluid img-thumbnail" src="assets/gallery8.png" alt="">
+              <img class="img-fluid img-thumbnail" src="../../assets/gallery8.png" alt="">
             </a>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
         <a href="/projects/WS450/" class="d-block mb-3 p-1">
-              <img class="img-fluid img-thumbnail" src="assets/gallery19.png" alt="">
+              <img class="img-fluid img-thumbnail" src="../../assets/gallery19.png" alt="">
             </a>
       </div>
     </div>
@@ -131,27 +132,27 @@ layout: default
         <div class="row text-center text-lg-left">
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/listenlocal/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery23.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery23.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/motivotehomepage/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery22.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery22.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/tumblr/" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery7.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery7.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/wordpress" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery20.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery20.png" alt="">
                 </a>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-2">
             <a href="/projects/motivote" class="d-block mb-3 p-1">
-                  <img class="img-fluid img-thumbnail" src="assets/gallery11.png" alt="">
+                  <img class="img-fluid img-thumbnail" src="../../assets/gallery11.png" alt="">
                 </a>
           </div>
         </div>
