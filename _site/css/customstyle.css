@@ -79,10 +79,10 @@ p {
 }
 .nav-link-social {
     padding: 0 .5rem;
-    color: #E26161;
+    color: #FFC0B2;
 }
 .nav-link-social:hover {
-    color: #FFC0B2  !important;
+    color: #E26161  !important;
 }
 a.nav-link {
     color: inherit;
