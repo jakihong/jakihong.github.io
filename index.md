@@ -18,21 +18,21 @@ layout: default
         <h2 class="mt-5">My Primary Areas of Focus</h2>
     <div class="card-deck mt-4">
           <div class="card focus">
-            <a href="/portfolio/#illust"><div class="card-body text-center focus-body">
+            <a href="/portfolio#illust"><div class="card-body text-center focus-body">
               <i class="material-icons icon">palette</i>
               <h5 class="card-title mt-2">Illustration</h5>
               <p class="card-text small">Projects focusing on character design, and illustrative compositions.</p>
             </div></a>
           </div>
           <div class="card focus">
-            <a href="/portfolio/#gdesign"><div class="card-body text-center focus-body">
+            <a href="/portfolio#gdesign"><div class="card-body text-center focus-body">
               <i class="material-icons icon">photo</i>
               <h5 class="card-title mt-2">Graphic Design</h5>
               <p class="card-text small">Projects including event flyers, logo designs, and styled presentations.</p>
             </div></a>
           </div>
           <div class="card focus">
-            <a href="/portfolio/#wdesign"><div class="card-body text-center focus-body">
+            <a href="/portfolio#wdesign"><div class="card-body text-center focus-body">
               <i class="material-icons icon">tv</i>
               <h5 class="card-title mt-2">UI/UX Design</h5>
               <p class="card-text small">Projects including websites and layouts, coded using HTML/CSS.</p>
