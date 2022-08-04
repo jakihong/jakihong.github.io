@@ -13,7 +13,7 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: #ffd4fd !important;
+    color: rgb(183, 192, 219) !important;
 }
 .deco-line {
     border: 1px solid #ffd4fd;
@@ -66,8 +66,10 @@ p {
     color: #ffffff !important;
 }
 .btn-primary {
+    border: 0px !important;
     background-color: #ffd4fd !important;
     color: #e03f3f;
+    letter-spacing: 2.5px;
 }
 .brand-color {
     display: block;
@@ -82,7 +84,6 @@ p {
 }
 .navbar-brand {
     font-size: 1rem;
-    color: rgb(183, 192, 219) !important;
 }
 .nav-item {
     text-transform: uppercase;
@@ -164,6 +165,10 @@ border-right:  1px solid #dee2e6 !important;
 }
 .footer a:hover {
     color: rgb(183, 192, 219) !important;
+}
+
+.bg-periwinkle {
+    background-color: rgb(183, 192, 219) !important;
 }
 
 /* On screens that are 992px or less, set the background color to blue */

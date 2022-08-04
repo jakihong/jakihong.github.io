@@ -19,15 +19,16 @@ layout: default
           <ul class="list-group list-group-flush">
             <li class="list-group-item px-0">
                <h1 class="card-title">Hi! <BR>I'm Jaki.</h1>
-                <h3 class="card-subtitle MB-4" style="color: rgb(183, 192, 219);">ILLUSTRATOR. DESIGNER.<br>STORYTELLER.</h3>
+                <h3 class="card-subtitle MB-4">ILLUSTRATOR. DESIGNER.<br>STORYTELLER.</h3>
                 <a class="card-link" href="https://www.patreon.com/heyitsjaki"><i class="fab fa-patreon"></i></a>
                 <a class="card-link" href="https://www.instagram.com/heyitsjaki/"><i class="fab fa-instagram"></i></a>
                 <a class="card-link" href="https://twitter.com/heyitsjaki"><i class="fab fa-twitter"></i></a>
                 <a class="card-link" href="mailto:contact@designbyjaki.com"><i class="fas fa-envelope"></i></a>
             </li>
             <li class="list-group-item px-0">
-                <P class="card-text tiny mt-2">I'm an illustrator and designer with a passion for dynamic visual storytelling.</P>
-                <P class="card-text tiny">In addition to creating the webcomics <I>KISMET</I> (Hiveworks) and <I>Ladykillers</I> (Webtoon Canvas), I also work as a colorist and inker on <I>Lore Olympus</I> (Webtoon).</P>
+                <P class="card-text mt-2">I'm an illustrator and designer with a passion for dynamic visual storytelling.</P>
+                <P class="card-text">In addition to creating the webcomics <I>KISMET</I> and <I>Ladykillers</I>, I also work as a colorist and inker on <I>Lore Olympus</I>.</P>
+                <a href="../portfolio" class="card-text tiny">View my complete portfolio <i class="fas fa-arrow-right"></i></a>
             </li>
           </ul>
       </div>
@@ -50,7 +51,7 @@ layout: default
         <div class="card text-light">
         <img class="card-img" src="assets/UJC_preview.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end">
+            <div class="col p-0 align-self-end d-none d-sm-inline">
                 <i class="tiny">Selected graphic design projects</i>
                 <h2 class="pt-1 m-0">Graphic Design</h2>
             </div>
@@ -63,7 +64,7 @@ layout: default
         <div class="card">
         <img class="card-img" src="assets/ED_preview.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end text-light">
+            <div class="col p-0 align-self-end text-light d-none d-sm-inline">
                 <i class="tiny">Selected illustration projects</i>
                 <h2 class="pt-1 m-0">Illustration</h2>
             </div>
@@ -76,7 +77,7 @@ layout: default
         <div class="card">
         <img class="card-img" src="assets/NS_COMM.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end text-light">
+            <div class="col p-0 align-self-end text-light d-none d-sm-inline">
                 <i class="tiny">Selected illustrations for individual clients</i>
                 <h2 class="pt-1 m-0">Commissions</h2>
             </div>
@@ -90,7 +91,7 @@ layout: default
       <img class="card-img" src="assets/KISMET-SW.png" alt="Card image">
         <a href="../assets/portfolio/KISMET_Ch1_Cover.png" data-max-width="800" data-max-height="800" data-toggle="lightbox" data-gallery="KISMET" data-footer="Cover art for Chapter 1 of KISMET (2021).">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end text-light">
+            <div class="col p-0 align-self-end text-light d-none d-sm-inline">
                 <i class="tiny">Concept art + selected works</i>
                 <h2 class="pt-1 m-0">KISMET</h2>
             </div>
@@ -102,9 +103,9 @@ layout: default
     <div class="grid-item col-md-8 mb-4">
       <a href="../assets/portfolio/Hilbert_Illustration.png" data-max-width="800" data-max-height="800" data-toggle="lightbox" data-gallery="Quanta" data-footer="Illustration for Quanta Magazine's article, &#34;Mathematicians Find Long-Sought Building Blocks for Special Polynomials&#34;, (2021).">
         <div class="card">
-        <img class="card-img" src="assets/Q_Banner.png" alt="Card image">
+        <img class="card-img" src="assets/Q_BANNER.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end text-light">
+            <div class="col p-0 align-self-end text-light d-none d-sm-inline">
                 <i class="tiny">Illustrations and design work for Quanta Magazine</i>
                 <h2 class="pt-1 m-0">Quanta Magazine</h2>
             </div>
@@ -121,7 +122,7 @@ layout: default
         <div class="card">
         <img class="card-img" src="assets/LK_SW.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end text-light">
+            <div class="col p-0 align-self-end text-light d-none d-sm-inline">
                 <i class="tiny">Concept art + selected works</i>
                 <h2 class="pt-1 m-0">Ladykillers</h2>
             </div>
@@ -135,7 +136,7 @@ layout: default
         <div class="card text-white bg-dark">
         <img class="card-img" src="assets/LO_preview.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end">
+            <div class="col p-0 align-self-end d-none d-sm-inline">
                 <i class="tiny">Various unofficial fan works</i>
                 <h2 class="pt-1 m-0">Lore Olympus</h2>
             </div>
@@ -152,7 +153,7 @@ layout: default
         <div class="card">
         <img class="card-img" src="assets/Arcana_SW.png" alt="Card image">
           <div class="card-img-overlay d-flex">
-            <div class="col p-0 align-self-end text-light">
+            <div class="col p-0 align-self-end text-light d-none d-sm-inline">
                 <i class="tiny">Various unofficial fan works</i>
                 <h2 class="pt-1 m-0">The Arcana</h2>
             </div>

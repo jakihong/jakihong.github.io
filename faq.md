@@ -14,20 +14,20 @@ layout: default
 <P class="card-title pt-4">WHAT ARE YOUR RATES FOR PERSONAL COMMISSIONS?</P>
 <P>My rates vary depending on the complexity of the proposed project, but the basics for fully-rendered commissions are as follows:</P>
 <div class="card-deck my-5">
-    <div class="card" id="list-card">
-        <div class="card-body text-center px-0">
+    <div class="card bg-periwinkle" id="list-card">
+        <div class="card-body text-center px-0 py-5">
             <p class="card-title">Full body</p>
             <h2 class="mb-0">$500</h2>
         </div>
     </div>  
-    <div class="card" id="list-card">
-        <div class="card-body text-center px-0">
+    <div class="card bg-periwinkle" id="list-card">
+        <div class="card-body text-center px-0 py-5">
             <p class="card-title">Waist-Up</p>
             <h2 class="mb-0">$350</h2>
         </div>
     </div>
-    <div class="card" id="list-card">
-        <div class="card-body text-center px-0">
+    <div class="card bg-periwinkle" id="list-card">
+        <div class="card-body text-center px-0 py-5">
             <p class="card-title">Portrait</p>
             <h2 class="mb-0">$200</h2>
         </div>
